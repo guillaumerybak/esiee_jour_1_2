@@ -1,0 +1,21 @@
+NOM: esiee_print_comb;
+FONCTIONS_AUTORISEES: esiee_putchar;
+SOURCE: esiee_print_comb.c;
+AIDE: man ascii;
+SUJET: Creer une fonction, qui affiche par ordre croissant, la liste des combinaisons de n nombres compris entre 0 et 9, n etant envoye a votre fonction en parametre.
+Elle sera appellee de la maniere suivante:
+
+int main()
+{
+    esiee_print_comb(5);
+}
+
+attention, vous ne devrez afficher que les combinaisons
+qui ne contiennet pas au moins 2 fois le meme chiffre et
+dont les chiffres seront tries par ordre croissant de gauche a droite.
+ex: pour n=3:
+
+001 ne s'affiche pas car 2 '0';
+032 ne s'affiche pas car pas dans l'ordre croissant;
+012 s'affiche
+013 s'affiche

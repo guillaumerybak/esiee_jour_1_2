@@ -1,0 +1,5 @@
+NOM: esiee_is_printables;
+FONCTIONS_AUTORISEES: ;
+SOURCE: esiee_is_printables.c;
+AIDE: man ascii;
+SUJET: Creer une fonction qui prend un nombre entier positif en parametre et renvoit 1 si la valeur correspond a un caractere affichable dans un terminal et 0 dans le cas contraire.

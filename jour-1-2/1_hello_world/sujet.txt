@@ -1,0 +1,5 @@
+NOM: esiee_hello_world;
+FONCTIONS_AUTORISEES: esiee_putchar;
+SOURCE: esiee_hello_world.c;
+AIDE: man ascii;
+SUJET: Creer un programme qui affiche "Hello World" suivi d'un retour a la ligne (carriage return, '\n');

@@ -1,0 +1,5 @@
+NOM: esiee_print_numbers;
+FONCTIONS_AUTORISEES: esiee_putchar;
+SOURCE: esiee_print_numbers.c;
+AIDE: man ascii;
+SUJET: Creer un programme qui affiche les chiffres de 0 a 9 suivi d'un retour a la ligne (carriage return, '\n');

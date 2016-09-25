@@ -1,0 +1,5 @@
+NOM: esiee_print_number;
+FONCTIONS_AUTORISEES: esiee_putchar;
+SOURCE: esiee_print_number.c;
+AIDE: man ascii;
+SUJET: Creer une fonction, qui prend en parametre un nombre entier signe et doit afficher sa valeur sur la console.

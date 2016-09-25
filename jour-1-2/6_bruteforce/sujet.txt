@@ -1,0 +1,5 @@
+NOM: esiee_bruteforce;
+FONCTIONS_AUTORISEES: esiee_putchar;
+SOURCE: esiee_bruteforce.c;
+AIDE: man ascii;
+SUJET: Creer une fonction, qui teste toute les combinaisons de 4 caracteres et qui les envoie a la fonction esiee_test_passcode. Cette fonction prend 4 parametres, chacun etant un des caracteres de la combinaison. Si la combinaison est bonne, elle renvoie 1, sinon 0. Si votre fonction arrive a trouver la combinaison, vous devrez l'afficher suivie d'un retour a la ligne, sinon, afficher un retour a la ligne. La fonction de teste qui vous est founie a comme mot de passe "toto". ATTENTION, ce ne sera pas le mot de passe utilise lors de la correction de votre exercice.

@@ -1,0 +1,5 @@
+NOM: esiee_rev_print_printables;
+FONCTIONS_AUTORISEES: esiee_putchar;
+SOURCE: esiee_rev_print_printables.c;
+AIDE: man ascii;
+SUJET: Creer un programme qui affiche tous les caracteres affichable par une console, tries par leur valeur ascii dans l'ordre decroissant, suivi d'un retour a la ligne (carriage return, '\n');
