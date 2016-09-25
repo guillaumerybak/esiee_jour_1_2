@@ -1,0 +1,22 @@
+
+EXO = esiee_print_printables
+
+SRC := $(wildcard *.c)
+SRC += $(wildcard ../../*.c)
+
+OBJ = $(SRC:.c=.o)
+
+CFLAGS = -W -Wall -Wextra -Werror -I../../
+
+all: $(EXO)
+
+$(EXO): $(OBJ)
+	gcc -o $(EXO) $(OBJ)
+
+.PHONY: clean mrproper
+
+clean:
+	@rm -fv $(OBJ)
+
+mrproper: clean
+	@rm -fv $(EXO)
