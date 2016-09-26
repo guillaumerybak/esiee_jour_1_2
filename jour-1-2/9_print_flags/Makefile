@@ -1,5 +1,5 @@
 
-EXO = esiee_is_printable
+EXO = esiee_print_flags
 
 SRC := $(wildcard *.c)
 SRC += $(wildcard ../../*.c)

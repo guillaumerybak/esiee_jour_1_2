@@ -1,0 +1,26 @@
+NOM: esiee_print_flags;
+FONCTIONS_AUTORISEES: esiee_putchar;
+SOURCE: esiee_print_flags.c;
+AIDE: ;
+SUJET: Creer une fonction, qui prend un parametre un entier signe et qui affiche pour chaque bit du nombre un caractere.
+Comme pour les autres exercices, il convient d'afficher a la fin du traitement un retour a la ligne.
+La correspondance entre la position du bit dans la memoire et le caractere a afficher est le suivant:
+
+___________________________
+| POSITION   | CARACTERE  |
+---------------------------
+| 0          | a          |
+| 1          | b          |
+| 2          | 6          |
+| 3          | d          |
+| 4          | 1          |
+| 5          | _          |
+| 6          | g          |
+| 7          | ^          |
+| 10         | \t         |
+| 16         | ?          |
+---------------------------
+
+ex: 5 --> 000000101 --> affiche: a6
+
+
