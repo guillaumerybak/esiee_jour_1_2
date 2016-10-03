@@ -6,7 +6,7 @@ SRC += $(wildcard ../../*.c)
 
 OBJ = $(SRC:.c=.o)
 
-CFLAGS = -W -Wall -Wextra -Werror -I../../
+CFLAGS = -W -Wall -Wextra  -I../../
 
 all: $(EXO)
 

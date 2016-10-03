@@ -1,11 +1,9 @@
 // SUJET JOURS 1 ET 2 DE PISCINE
 
 Bonjour, dans ce depot vous trouverez les sujets des exercices a rendre pour les jours 1 et 2.
-Tous les exercices sont a rendre le soir du 2eme jour avant 23h59.
+Tous les exercices sont a rendre le mardi soir avant 23h59.
 Dans le dossier jour-1-2 vous trouverez les exercices, classes dans des sous-dossiers.
 Chaque dossier correspond a un exercice. Nous vous fournissons egalement dans chaque dossier le sujet de l'exercice,
-ce dernier est une duplication du sujet se trouvant sur la platforme EDX. Si des sujets presents dans ce depot different
-de ceux present sur EDX, ceux presents sur EDX sont a utiliser a la place.
 Dans ces dossiers se trouvent egalement un fichier Makefile, permettant de compiler votre travail avec les fonctions
 que nous vous fournissons ainsi qu'un fichier .c servant de squelette a votre exercice.
 
@@ -13,5 +11,5 @@ ATTENTION, dans chaque exercice un certain nombre de fonctions sont autorisees. 
 interdite et son utilisation sera severement sanctionnee.
 
 ATTENTION, votre travail est individuel (sauf consigne contraire des assistants) ce qui veut dire que, bien que l'entraide soit
-encouragee, la triche et le plagia sont formellement interdits. Toutes vos exercices seront verifies et la triche sera loudement
+encouragee, la triche et le plagia sont formellement interdits. Tous vos exercices seront verifies et la triche sera loudement
 sanctionnee.
